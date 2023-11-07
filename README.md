@@ -17,7 +17,7 @@ Our backlink analysis leverages the power of Python to resolve domain names to I
 
 This Python approach provides us with a scalable method to analyze backlink profiles, helping inform our SEO and competitive strategy. Check out the script [here](https://github.com/D2T-Backlink-Analysis/scripts).
 
-Make sure to replace the placeholders `your-repository` and `your-script-path` with the actual GitHub repository and file path where the script is located. This message outlines the technical process and the strategic value of the script.
+
 
 ### Dash 2 Trade Backlink and Competitive Strategy Analysis
 
