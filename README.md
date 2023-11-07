@@ -15,7 +15,7 @@ Our backlink analysis leverages the power of Python to resolve domain names to I
 
 - **Clean Workflow**: After processing, the script ensures that resources are closed properly, maintaining an efficient and clean Python environment.
 
-This Python approach provides us with a scalable method to analyze backlink profiles, helping inform our SEO and competitive strategy. Check out the script [here](https://github.com/MarineBauerle/D2T-Backlink-Analysis/blob/main/scripts/D2T_Backlink_Analysis.py).
+This Python approach provides us with a scalable method to analyze backlink profiles, helping inform our SEO and competitive strategy. Check out the script [here](https://github.com/MarineBauerle/D2T-Backlink-Analysis/blob/main/scripts).
 
 
 
